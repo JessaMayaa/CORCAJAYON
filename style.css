@@ -1,0 +1,278 @@
+body {
+    margin: 0;
+    padding: 150px;
+    border: 1px solid black;
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+.logo-s {
+
+    position: absolute; /* Position the logo absolutely within its parent */
+    z-index: -1;
+    top: 140px; /* Adjust the distance from the top of the parent container */
+    left: 770px; 
+}
+.myheader{
+    text-align: center;
+    font: Arial,sans-serif;
+    font-size: 11px;
+    line-height:  1em;
+    
+}
+.title{
+    text-align: center;
+    letter-spacing: 10px;
+    font: Arial,sans-serif;
+}
+.registration{
+    text-align: left;
+    font: Arial,sans-serif;
+}
+.TOPHEADER{
+        border-width: 1px; /* Width of the border */
+        border-style: solid; /* Style of the border (solid line) */
+        border-color: black;
+        background-color: #C9CEF5;
+        text-align: center;
+        font-size: small;
+}
+.padding1{
+  border: 1px solid black;
+  background-color: rgb(255, 255, 255);
+  padding-top: 0;
+  padding-right: 30px;
+  padding-bottom: 100px;
+  padding-left: 20px;
+}
+#padding1{
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    padding-top: 0;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+}
+.center-text {
+    text-align: center;
+     margin: 0; /* Remove any default margin to ensure the paragraph is centered properly */
+    padding: 250px; 
+   line-height:0.2; 
+}
+
+.right-text {
+    text-align: right;
+    margin: 0; /* Remove any default margin to ensure the paragraph is centered properly */
+    padding: 120px; 
+    line-height:0.2; 
+}
+
+.center-text2 {
+    text-align: center;
+     margin: 0; /* Remove any default margin to ensure the paragraph is centered properly */
+    padding: 175px; 
+    line-height:0.5; 
+}
+
+.right-text2 
+{
+    text-align: right;
+    margin: 0; /* Remove any default margin to ensure the paragraph is centered properly */
+    padding: 0; 
+    line-height:0.5; 
+}
+.center-text3 {
+    text-align: center;
+     margin: 0; /* Remove any default margin to ensure the paragraph is centered properly */
+    padding: 440px;
+    line-height:1.7; 
+ 
+}
+
+.right-text3
+{
+    text-align: right;
+    margin: 0; /* Remove any default margin to ensure the paragraph is centered properly */
+    padding: 95px; 
+    line-height:1.7; 
+}
+.center-text4 {
+    text-align: center;
+     margin: 0; /* Remove any default margin to ensure the paragraph is centered properly */
+    padding: 100px; 
+}
+.left{
+    text-align: left;
+    padding:-0.5px;
+    margin: 0;
+}
+.left-center-text{
+    margin: 0;
+    padding: 100px;
+    text-align: left;
+}
+.center-center-text{
+    margin: 0;
+    padding: 100px;
+    text-align: center;
+}
+
+.right-center-text2{
+    margin: 0;
+    padding: -200px;
+    text-align: right;
+}
+.header{
+    text-align:center;
+}
+
+.th, .td, .table{
+    padding-left:110px;
+    }
+
+    .td{
+        font: size 15px;
+    }
+
+.th1, .td1{
+    padding-left: 160px;
+}
+.note{
+    text-align:justify;
+    font-size: x-small;
+}
+.padding2{
+    border: 1px solid black;
+    background-color: rgb(255, 255, 255);
+    padding-top: 0;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 18px;
+    position: left;
+    font-size: small;
+    width: 420px;
+    float: left;
+  }
+  .TOPHEADER2{
+    border-width: 1px; /* Width of the border */
+    border-style: solid; /* Style of the border (solid line) */
+    border-color: black;
+    background-color: #C9CEF5;
+    position:left;
+    width:468px;
+    
+}
+.th11{
+    text-align:center;
+    letter-spacing: 12px;
+    font-size: small;  
+}
+.th12{
+    text-align:center;
+    letter-spacing: 5px;  
+}
+
+ .rightdown{
+    position: right;
+    border-width: 1px;
+    border-color:#C9CEF5;
+    font-size: small;
+ }
+.th3{
+    text-align: right;
+}
+.padding3{
+
+    border-style: solid;
+    border-width: 1px;
+    width:468px;
+    border-color: black;
+    font-size: small;
+    float: bottom   ;
+  
+   
+}
+.th1{
+    padding-left:150px;
+    text-align: center;
+}
+.downheader{
+    border-width: 1px; /* Width of the border */
+    border-style: solid; /* Style of the border (solid line) */
+    border-color: black;
+    background-color: #C9CEF5;
+    text-align: center;
+    font-size:smaller;
+    letter-spacing: 5px;
+    float: left;
+}
+.tth{
+    border-width:1px;
+    border-style: solid;
+    border-color: black;
+    border-collapse:collapse;
+    
+}
+.tth1{
+    border-width:1px;
+    border-style: solid;
+    border-color: black;
+    border-collapse:collapse;
+    word-spacing: 5.4px ;
+}
+.ttd , .payment{
+    border-width:1px;
+    border-style: solid;
+    border-color: black;
+    border-collapse:collapse;
+    word-spacing: 10px ;
+} 
+.rules{
+background-color: rgb(255, 255, 255);
+font-size: 20px;
+width: 450px;
+float:right;
+margin-right:250px;
+}
+.fees{
+    float:left;
+}
+#leftpad{
+    background-color: rgb(255, 255, 255);
+    width: 450px;
+    position:absolute;
+    float:right;
+    right: 100px;
+    bottom: -550px;
+    margin-right:350px;
+    text-align: justify;
+}
+#signature{
+    position: absolute;
+    bottom: -770px;
+    right: 300px;
+}
+#dateprinted{
+    background-color: rgb(255, 255, 255);
+    width: 200px;
+    position:absolute;
+    float:right;
+    right: -195px;
+    bottom: -846px;
+    margin-right:350px;
+    font-size: x-small;
+}
+#footer{
+    border-width: 1px; /* Width of the border */
+    border-style: solid; /* Style of the border (solid line) */
+    border-color: black;
+    background-color: #C9CEF5;
+    padding-top: 1px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 20px;
+    margin-left: -21px;
+    position: absolute;
+    width:82.5%;
+    text-align: center;
+    bottom: -910px;
+}
